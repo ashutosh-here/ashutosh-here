@@ -1,16 +1,25 @@
-<p align="center">
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas/graphs/contributors"><img src="https://img.shields.io/github/contributors/vaibhavvikas/vaibhavvikas?color=blue"></a>
-    <a href="https://github.com/vaibhavvikas"><img src="https://img.shields.io/github/stars/vaibhavvikas.svg?color=blue&logo=github"></a>
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas/network/members"><img src="https://img.shields.io/github/forks/vaibhavvikas/vaibhavvikas.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhavvikas.vaibhavvikas" alt="visitors"/>
-</p>
+
 
 [![](./src/header_.png)](#)
 
 > <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.</b>\
 > Want to discuss something? You can reach out to me on discord at <b>Dwanzil#8489</b>.
+
+
+ <p>
+    <img src="https://views.whatilearened.today/views/github/ashutosh-here/views.svg"/>
+    <a href="https://github.com/ashutosh-here?tab=followers"><img src="https://img.shields.io/github/followers/ashutosh-here?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/ashutosh-here?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+    <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
+    <a href="mailto:ashutoshtripathi6937@gmail.com?subject=[GitHub]%20🔥%20Ask%20me%20anything&body=Hello%20Bayrem%2C%0A%0AI am%20sending%20you%20this%20mail%20after%20seeing%20your%20GitHub profile%20to..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
+    <a href="https://www.microsoft.com/en-in/"><img src="https://img.shields.io/badge/Windows-0078D6?logo=windows"/></a>
+   
+  </p>
+</p>
+<br/><br/>
+
+
+
 
 ## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
@@ -47,3 +56,18 @@
         <td colspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
 </table>
+
+
+
+<!--
+
+<p align="center">
+    <a href="https://github.com/ashutosh-here/ashutosh-here"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+  
+   <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+  
+  <a href="https://github.com/ashutosh-here/ashutosh-here/graphs/contributors"><img src="https://img.shields.io/github/contributors/ashutosh-here/ashutosh-here?color=blue"></a>
+    <a href="https://github.com/ashutosh-here"><img src="https://img.shields.io/github/stars/ashutosh-here.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/ashutosh-here/ashutosh-here/network/members"><img src="https://img.shields.io/github/forks/ashutosh-here/ashutosh-here.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ashutosh-here.ashutosh-here" alt="visitors"/>
+</p>     -->
