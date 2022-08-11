@@ -118,11 +118,9 @@
 
 </p>
 
-<!--![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asmit2952&hide_border=true&theme=redical)-->
 
----
 
 <p align="center">
    
-   <a href="https://github.com/ashutosh-here#gh-light-mode-only"><img src="https://raw.githubusercontent.com/ashutosh-here/ashutosh-here/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/ashutosh-here#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/ashutosh-here/ashutosh-here/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a>
+   <a href="https://github.com/ashutosh-here#gh-light-mode-only"><img src="https://raw.githubusercontent.com/ashutosh-here/ashutosh-here/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/ashutosh-here#gh-dark-mode-only"><img src="https://github.com/ashutosh-here/ashutosh-here/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a>
 </p>
