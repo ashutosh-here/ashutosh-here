@@ -84,37 +84,32 @@
 ## 📕 Pinned Repositories
 
 <p align="center">
-<a href="https://github.com/Asmit2952/Asmit2952.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Asmit2952.github.io&hide_border=true&theme=radical" />
+<a href="https://github.com/ashutosh-here/ECommerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh-here&repo=ECommerce&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/Open-Source-Programs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Open-Source-Programs&hide_border=true&theme=radical" />
+<a href="https://github.com/ashutosh-here/InHandMedi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh-here&repo=InHandMedi&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/Weather-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Weather-App&hide_border=true&theme=radical" />
+<a href="https://github.com/ashutosh-here/Terminal-Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh-here&repo=Terminal-Portfolio&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/Web-accessibility-tester">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Web-accessibility-tester&hide_border=true&theme=radical" />
+
+<a href="https://github.com/ashutosh-here/ECommerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh-here&repo=ECommerce&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/MP3-Player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=MP3-Player&hide_border=true&theme=radical" />
+<a href="https://github.com/ashutosh-here/ECommerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh-here&repo=ECommerce&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/CLI-passgen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=CLI-passgen&hide_border=true&theme=radical" />
+<a href="https://github.com/ashutosh-here/ECommerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh-here&repo=ECommerce&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/Asmit2952/URL-Shortener">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=URL-Shortener&hide_border=true&theme=radical" />
-</a>
 
-<a href="https://github.com/Asmit2952/Twitter-Dynamic-Header">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Twitter-Dynamic-Header&hide_border=true&theme=radical" />
-</a>
 
 </p>
 
