@@ -19,17 +19,14 @@
 <br/><br/>
 
 
-# Hey!! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
-
-<a href="https://asmit2952.github.io/"><img src="/src/profile_banner.gif"></a>
+# Hey!! Great to see you here! 
 
 * 📖 Pursuing my Bachelor's in Computer Science and Business Systems from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/). 
 
-* 🧑🏻‍💻 Tech enthusiast, designer & an open-source advocate. 
-
+* 🧑🏻‍💻 Self-motivated, extremely passionate, and open source lover.
 * 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
 
-* 💻 Currently learning [React](https://reactjs.org/).
+* 💻 Currently learning [Angular](https://angular.io/).
 
 * 📰 Subscribe to my newsletter: 
 
