@@ -2,11 +2,18 @@
 
 [![](./src/header_.png)](#)
 
-> <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.</b>\
-> Want to discuss something? You can reach out to me on discord at <b>Dwanzil#8489</b>.
+# Hey!! Great to see you here! 
 
+* 📖 I'm a Software Developer who likes to tinker with code.
 
- <p>
+* 🧑🏻‍💻 Self-motivated, extremely passionate, and open source lover.
+
+* 💡 Always open to collaborating on projects and innovative ideas. 
+
+* 💻 Currently learning [Angular](https://angular.io/).
+* 😎 Enjoy my repositories here.
+
+<p>
     <img src="https://views.whatilearened.today/views/github/ashutosh-here/views.svg"/>
     <a href="https://github.com/ashutosh-here?tab=followers"><img src="https://img.shields.io/github/followers/ashutosh-here?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/ashutosh-here?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
@@ -19,54 +26,11 @@
 <br/><br/>
 
 
-# Hey!! Great to see you here! 
-
-* 📖 Pursuing my Bachelor's in Computer Science and Business Systems from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/). 
-
-* 🧑🏻‍💻 Self-motivated, extremely passionate, and open source lover.
-* 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
-
-* 💻 Currently learning [Angular](https://angular.io/).
-
-* 📰 Subscribe to my newsletter: 
-
-<p align="center">
-<a href="https://www.getrevue.co/profile/asmit">
-   <img src="https://img.shields.io/badge/Revue-FFA500?style=for-the-badge&logo=rss&logoColor=white" />
-</a>
-</p>	
-
-When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff. Find out more about me & feel free to connect with me here:
-
-<p align="center">
-	<a href="https://www.linkedin.com/in/asmit-malakannawar/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="https://twitter.com/Asmit_2952">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-	</a>
-	<a href="https://dev.to/asmit2952">
-		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-	</a>
-        <a href="https://asmit2952.github.io/">
-		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
-	</a>
-	<a href="https://asmit.bio.link/">
-		<img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
-	</a>
-        <a href="mailto:asmitbm2952002@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-</p>
-
----
-
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -75,15 +39,10 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 
 ### 🧩 Libraries & Framework
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white)
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+
 
 ### 🧑🏻‍💻 Tools & Platform
 
