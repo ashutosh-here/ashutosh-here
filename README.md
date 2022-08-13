@@ -10,7 +10,7 @@
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
-* 💻 [Click here](https://github.com/ashutosh-here) to see my portfolio .
+* 💻 [Click here](https://ashutosh-here.github.io/) to see my portfolio .
 * 😎 Enjoy my repositories here.
 
 <p>
