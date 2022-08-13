@@ -10,7 +10,7 @@
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently learning [Angular](https://angular.io/).
+* 💻 [Click here](https://github.com/ashutosh-here) to see my portfolio .
 * 😎 Enjoy my repositories here.
 
 <p>
